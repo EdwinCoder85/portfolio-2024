@@ -1,0 +1,269 @@
+[
+  {
+    "name": "CONEXION HUELLITAS",
+    "img": "/images/projects/project11.jpg",
+    "description": "Aplicación Web App para la adopción de mascotas 🐶 🐱, que permite conectar de manera efectiva a posibles adoptantes con refugios de animales, facilitando el proceso de adopción a través de una interfaz intuitiva y segura. Este proyecto se desarrolla en el marco de una simulación laboral por No Country.",
+    "technologies": [
+      {
+        "name": "React Hook Form",
+        "img": "/images/icons/react.svg",
+        "color": "#00d8ff"
+      },
+      {
+        "name": "React Redux",
+        "img": "/images/icons/tailwind.svg",
+        "color": "#06b6d4"
+      },
+      {
+        "name": "React Slick",
+        "img": "/images/icons/redux.svg",
+        "color": "#764abc"
+      }
+    ],
+    "networks": [
+      {
+        "name": "React Slick",
+        "img": "/images/icons/github.svg",
+        "link": "https://github.com/No-Country/c16-23-n-node-react"
+      },
+      {
+        "name": "Tailwind CSS",
+        "img": "/images/icons/netlify.svg",
+        "link": "https://c16-23-n-node-react-eta.vercel.app/"
+      }
+    ]
+  },
+  {
+    "name": "TODO LIST",
+    "img": "/images/projects/project08.jpg",
+    "description": "Es una aplicación web de front-end que permite crear, eliminar y modificar tareas sin necesidad de una API. En el desarrollo de la aplicación se utilizaron tecnologías como TypeScript y Sass. Para la persistencia de datos, se empleó localstorage.",
+    "technologies": [
+      {
+        "name": "React Hook Form",
+        "img": "/images/icons/react.svg",
+        "color": "#00d8ff"
+      },
+      {
+        "name": "React Redux",
+        "img": "/images/icons/typescript.svg",
+        "color": "#017acb"
+      },
+      {
+        "name": "React Slick",
+        "img": "/images/icons/sass.svg",
+        "color": "#cf649a"
+      }
+    ],
+    "networks": [
+      {
+        "name": "React Slick",
+        "img": "/images/icons/github.svg",
+        "link": "https://github.com/EdwinCoder85/TodoListApp"
+      },
+      {
+        "name": "Tailwind CSS",
+        "img": "/images/icons/netlify.svg",
+        "link": "https://todolistapp-edwinamaranto.vercel.app/"
+      }
+    ]
+  },
+  {
+    "name": "CRUD MOVIES",
+    "img": "/images/projects/project07.jpg",
+    "description": "Es una aplicación web desarrollada con front-end que permite registrar, eliminar y actualizar películas 🎞 🎥 sin consumir ninguna API. Para la construcción de la app se usaron librerías como: React Hook Form, React Redux, React Slick y Tailwind CSS.",
+    "technologies": [
+      {
+        "name": "React Hook Form",
+        "img": "/images/icons/react.svg",
+        "color": "#00d8ff"
+      },
+      {
+        "name": "React Redux",
+        "img": "/images/icons/redux.svg",
+        "color": "#764abc"
+      },
+      {
+        "name": "React Slick",
+        "img": "/images/icons/tailwind.svg",
+        "color": "#06b6d4"
+      }
+    ],
+    "networks": [
+      {
+        "name": "React Slick",
+        "img": "/images/icons/github.svg",
+        "link": "https://github.com/EdwinCoder85/CrudMoviesApp"
+      },
+      {
+        "name": "Tailwind CSS",
+        "img": "/images/icons/netlify.svg",
+        "link": "https://crudmoviesapp-edwinamaranto.netlify.app/"
+      }
+    ]
+  },
+  {
+    "name": "COUNTRY",
+    "img": "/images/projects/project10.jpg",
+    "description": "Es una aplicación web desarrollada con front-end que permite buscar por nombre de país, filtrar países por región e idioma. Para la construcción de la app se usaron librerías como: Axios, React Router, React Loader Spinner y Tailwind CSS; también se creó custom hook que extrae un arreglo de objetos de la API.",
+    "technologies": [
+      {
+        "name": "React Hook Form",
+        "img": "/images/icons/react.svg",
+        "color": "#00d8ff"
+      },
+      {
+        "name": "React Redux",
+        "img": "/images/icons/redux.svg",
+        "color": "#764abc"
+      },
+      {
+        "name": "React Slick",
+        "img": "/images/icons/tailwind.svg",
+        "color": "#06b6d4"
+      }
+    ],
+    "networks": [
+      {
+        "name": "React Slick",
+        "img": "/images/icons/github.svg",
+        "link": "https://github.com/EdwinCoder85/CountryApp"
+      },
+      {
+        "name": "Tailwind CSS",
+        "img": "/images/icons/netlify.svg",
+        "link": "https://countryapp-edwinamaranto.netlify.app/"
+      }
+    ]
+  },
+  {
+    "name": "ECOMMERCE",
+    "img": "/images/projects/project06.jpg",
+    "description": "Es una aplicación web desarrollada con front-end que permite mostrar el catálogo de productos disponibles, realizar compras, añadir al carrito de comprar, ver detalle del producto a seleccionar, así como iniciar y cerrar sesión a través de una API. Para la construcción del app se usaron librerías como: Axios, React Hook Form, React Router y React Redux.",
+    "technologies": [
+      {
+        "name": "React Hook Form",
+        "img": "/images/icons/react.svg",
+        "color": "#00d8ff"
+      },
+      {
+        "name": "React Redux",
+        "img": "/images/icons/redux.svg",
+        "color": "#764abc"
+      },
+      {
+        "name": "React Slick",
+        "img": "/images/icons/javascript.svg",
+        "color": "#ffde25"
+      },
+      {
+        "name": "React Slick",
+        "img": "/images/icons/css3.svg",
+        "color": "#1c88c7"
+      }
+    ],
+    "networks": [
+      {
+        "name": "React Slick",
+        "img": "/images/icons/github.svg",
+        "link": "https://github.com/EdwinCoder85/EcommerceApp"
+      },
+      {
+        "name": "Tailwind CSS",
+        "img": "/images/icons/netlify.svg",
+        "link": "https://ecommerceapp-edwinamaranto.netlify.app/"
+      }
+    ]
+  },
+  {
+    "name": "POKEDEX",
+    "img": "/images/projects/project05.jpg",
+    "description": "Es una aplicación web desarrollada con front-end que permite buscar al Pokémon por categoría y por nombre, ver la información detallada de nuestro pokemon buscado a través de una API. Para la construcción del app se usaron librerías como: Axios, React Router y React Redux.",
+    "technologies": [
+      {
+        "name": "React Hook Form",
+        "img": "/images/icons/react.svg",
+        "color": "#00d8ff"
+      },
+      {
+        "name": "React Redux",
+        "img": "/images/icons/redux.svg",
+        "color": "#764abc"
+      },
+      {
+        "name": "React Slick",
+        "img": "/images/icons/css3.svg",
+        "color": "#1c88c7"
+      }
+    ],
+    "networks": [
+      {
+        "name": "React Slick",
+        "img": "/images/icons/github.svg",
+        "link": "https://github.com/EdwinCoder85/PokedexApp"
+      },
+      {
+        "name": "Tailwind CSS",
+        "img": "/images/icons/netlify.svg",
+        "link": "https://pokedexapp-edwinamaranto.netlify.app/"
+      }
+    ]
+  },
+  {
+    "name": "CRUD USERS",
+    "img": "/images/projects/project09.jpg",
+    "description": "Es una aplicación web desarrollada con front-end que permite crear, eliminar y modificar usuarios 🧑👧 a través de una API, a través de todos los métodos http. Para la construcción del app se uso la librería como: Axios y React Hook Form.",
+    "technologies": [
+      {
+        "name": "React Hook Form",
+        "img": "/images/icons/react.svg",
+        "color": "#00d8ff"
+      },
+      {
+        "name": "React Slick",
+        "img": "/images/icons/css3.svg",
+        "color": "#1c88c7"
+      }
+    ],
+    "networks": [
+      {
+        "name": "React Slick",
+        "img": "/images/icons/github.svg",
+        "link": "https://github.com/EdwinCoder85/UserCardAppv2.0"
+      },
+      {
+        "name": "Tailwind CSS",
+        "img": "/images/icons/netlify.svg",
+        "link": "https://cruduserappv2-edwinamaranto.netlify.app/"
+      }
+    ]
+  },
+  {
+    "name": "DASHBOARD GAMER",
+    "img": "/images/projects/project12.jpeg",
+    "description": "Es una aplicación web desarrollada con front-end que permite visualizar video games realizado en react vite y maqueteado con tailwind, totalmente responsive.",
+    "technologies": [
+      {
+        "name": "React Hook Form",
+        "img": "/images/icons/react.svg",
+        "color": "#00d8ff"
+      },
+      {
+        "name": "React Slick",
+        "img": "/images/icons/tailwind.svg",
+        "color": "#06b6d4"
+      }
+    ],
+    "networks": [
+      {
+        "name": "React Slick",
+        "img": "/images/icons/github.svg",
+        "link": "https://github.com/EdwinCoder85/dashboard-gamer"
+      },
+      {
+        "name": "Tailwind CSS",
+        "img": "/images/icons/netlify.svg",
+        "link": "https://dashboardgamer-edwinamaranto.netlify.app/"
+      }
+    ]
+  }
+]

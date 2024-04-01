@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Linkedin",
+    "url": "https://www.linkedin.com/in/edwin-amaranto-villegas/",
+    "iconSrc": "/images/icons/linkedin.svg",
+    "backgroundColor": "#0073b1"
+  },
+  {
+    "name": "Whatsapp",
+    "url": "https://wa.link/x4b9zx",
+    "iconSrc": "/images/icons/whatsapp.svg",
+    "backgroundColor": "#4dc247"
+  },
+  {
+    "name": "Telegram",
+    "url": "https://t.me/edwinamaranto",
+    "iconSrc": "/images/icons/telegram.svg",
+    "backgroundColor": "#0088cc"
+  },
+  {
+    "name": "Github",
+    "url": "https://github.com/EdwinCoder85",
+    "iconSrc": "/images/icons/github.svg",
+    "backgroundColor": "#161616"
+  },
+  {
+    "name": "Gitlab",
+    "url": "https://gitlab.com/EAMARANTO",
+    "iconSrc": "/images/icons/gitlab.svg",
+    "backgroundColor": "#784ac8"
+  }
+]

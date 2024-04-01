@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "text": "Inicio",
+    "href": "#home"
+  },
+  {
+    "id": 2,
+    "text": "Sobre Mi",
+    "href": "#aboutme"
+  },
+  {
+    "id": 3,
+    "text": "Habilidades",
+    "href": "#skills"
+  },
+  {
+    "id": 4,
+    "text": "Proyectos",
+    "href": "#projects"
+  },
+  {
+    "id": 5,
+    "text": "Estudios",
+    "href": "#studies"
+  },
+  {
+    "id": 6,
+    "text": "Contactame",
+    "href": "#contactme"
+  }
+]

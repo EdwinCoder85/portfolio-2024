@@ -1,0 +1,120 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gray-100 dark:bg-gray-900;
+  @apply text-gray-950 dark:text-slate-100;
+  font-family: "Poppins", sans-serif;
+}
+
+.nav-link {
+  @apply mx-4 bg-slate-300 px-6 py-4 rounded-xl;
+}
+
+.active {
+  /* @apply text-white bg-slate-500; */
+  @apply text-slate-500;
+}
+
+.slick-slide > div {
+  margin: 15px;
+}
+
+/* .slick-list {
+  margin: 0 -10px;
+} */
+
+.slick-dots li button:before {
+  color: rgb(179, 178, 178) !important;
+  font-size: 15px !important;
+  /* top: 4rem !important; */
+}
+.slick-dots li.slick-active button:before {
+  color: #154ede !important;
+}
+
+.dark .slick-dots li.slick-active button:before {
+  color: #ffc837 !important; /* Cambia el color del dot activo en modo oscuro */
+}
+
+/* styles.css */
+/* Estilo del scrollbar */
+::-webkit-scrollbar {
+  width: 15px; /* Ancho del scrollbar */
+  background: #d9def2;
+}
+
+/* Estilo del scrollbar en el modo oscuro */
+.dark ::-webkit-scrollbar {
+  width: 15px; /* Ancho del scrollbar */
+  background: #2d3743;
+}
+
+/* Estilo del thumb */
+::-webkit-scrollbar-thumb {
+  /* background-color: #1556d6; */
+  background-image: linear-gradient(
+    to right,
+    #154ede 0%,
+    #00b1fd 51%,
+    #154ede 100%
+  );
+  border-radius: 10px; /* Radio de borde del thumb */
+}
+
+/* Estilo del thumb en el modo oscuro */
+.dark ::-webkit-scrollbar-thumb {
+  /* background-color: #eab308; */
+  background-image: linear-gradient(
+    to right,
+    #ff8008 0%,
+    #ffc837 51%,
+    #ff8008 100%
+  );
+  border-radius: 10px;
+}
+
+@keyframes show {
+  from {
+    opacity: 0;
+    transform: scale(0.15);
+  }
+
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.img {
+  view-timeline-name: --image;
+  view-timeline-axis: block;
+
+  animation-timeline: --image;
+  animation-name: show;
+  animation-duration: 2s; /* Cambia la duración de la animación aquí (por ejemplo, 2s para hacerla más lenta) */
+
+  animation-range: entry 25% cover 30%;
+  animation-fill-mode: both;
+}
+
+@keyframes bounce {
+  0%,
+  20%,
+  50%,
+  80%,
+  100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-10px);
+  }
+  60% {
+    transform: translateY(-5px);
+  }
+}
+
+.button:hover {
+  animation: bounce 0.6s;
+}

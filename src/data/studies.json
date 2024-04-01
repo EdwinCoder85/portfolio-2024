@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "imageSrc": "/images/studies/tailwind.jpg",
+    "altText": "Certificado de Tailwind CSS",
+    "url": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-40e68c6c-c791-4cb1-b408-780878381ffc.pdf"
+  },
+  {
+    "id": 2,
+    "imageSrc": "/images/studies/fullstack.jpg",
+    "altText": "Certificado de Desarrollo Full Stack",
+    "url": "https://certiwise.co/verify/58"
+  },
+  {
+    "id": 3,
+    "imageSrc": "/images/studies/backend.jpg",
+    "altText": "Certificado de Desarrollo Backend",
+    "url": "https://certiwise.co/verify/32"
+  },
+  {
+    "id": 4,
+    "imageSrc": "/images/studies/frontend.jpg",
+    "altText": "Certificado de Desarrollo Frontend",
+    "url": "https://verified.sertifier.com/en/verify/30112788697826/"
+  },
+  {
+    "id": 5,
+    "imageSrc": "/images/studies/fundamentos.jpg",
+    "altText": "Certificado de Fundamentos de Programación",
+    "url": "https://verified.sertifier.com/en/verify/30112788697826/"
+  },
+  {
+    "id": 6,
+    "imageSrc": "/images/studies/introducionoracle.jpg",
+    "altText": "Certificado de Introducción a Oracle",
+    "url": "https://drive.google.com/file/d/1HqI-E82UqJk6zSI8heqn-N73Kn6zKvGm/view?usp=sharing"
+  },
+  {
+    "id": 7,
+    "imageSrc": "/images/studies/agilecoach.jpg",
+    "altText": "Certificado de Agile Coach",
+    "url": "https://drive.google.com/file/d/1wcJmxTEfbKKw_ynR6ay7XdTajw3KwkUQ/view?usp=sharing"
+  },
+  {
+    "id": 8,
+    "imageSrc": "/images/studies/scrummaster.jpg",
+    "altText": "Certificado de Scrum Master",
+    "url": "https://drive.google.com/file/d/1OptOCxxz5Zm_wP02telG1u5rDNJxQZ1s/view?usp=sharing"
+  },
+  {
+    "id": 9,
+    "imageSrc": "/images/studies/metodologiasagiles.jpg",
+    "altText": "Certificado de Metodologías Ágiles",
+    "url": "https://drive.google.com/file/d/1JprX3JI_Y56PYFlJGz8hTG7qF8wkYkL1/view?usp=sharing"
+  },
+  {
+    "id": 10,
+    "imageSrc": "/images/studies/administrationoracle.jpg",
+    "altText": "Certificado de Administración de Oracle",
+    "url": "https://drive.google.com/file/d/1XrWu_hH3iK5sOT83A_b_vERAonWkQe4f/view?usp=sharing"
+  },
+  {
+    "id": 11,
+    "imageSrc": "/images/studies/aplicacionesweb.jpg",
+    "altText": "Certificado de Aplicaciones Web",
+    "url": "https://drive.google.com/file/d/1zDbhoOW6XPIqMxK6dTucmP6W34JRF6C8/view?usp=sharing"
+  },
+  {
+    "id": 12,
+    "imageSrc": "/images/studies/cursocsharp.jpg",
+    "altText": "Certificado de Curso de C#",
+    "url": "https://drive.google.com/file/d/14lA-lF2SFfBQX1mAWV89W4whZ2cthtb2/view?usp=sharing"
+  }
+]

@@ -1,0 +1,132 @@
+{
+  "technicalSkills": [
+    {
+      "id": 1,
+      "name": "CSS",
+      "imageSrc": "/images/skills/css-3.svg",
+      "altText": "CSS icon"
+    },
+    {
+      "id": 2,
+      "name": "HTML",
+      "imageSrc": "/images/skills/html-5.svg",
+      "altText": "HTML icon"
+    },
+    {
+      "id": 3,
+      "name": "JAVASCRIPT",
+      "imageSrc": "/images/skills/javascript.svg",
+      "altText": "JS icon"
+    },
+    {
+      "id": 4,
+      "name": "TYPESCRIPT",
+      "imageSrc": "/images/skills/typescript.svg",
+      "altText": "TS icon"
+    },
+    {
+      "id": 5,
+      "name": "NEXTJS",
+      "imageSrc": "/images/skills/nextjs.svg",
+      "altText": "NEXTJS icon"
+    },
+    {
+      "id": 6,
+      "name": "REACT",
+      "imageSrc": "/images/skills/react.svg",
+      "altText": "REACT icon"
+    },
+    {
+      "id": 7,
+      "name": "REDUX",
+      "imageSrc": "/images/skills/redux.svg",
+      "altText": "REDUX icon"
+    },
+    {
+      "id": 8,
+      "name": "TAILWIND",
+      "imageSrc": "/images/skills/tailwind.svg",
+      "altText": "TAILWIND icon"
+    },
+    {
+      "id": 9,
+      "name": "NODEJS",
+      "imageSrc": "/images/skills/nodejs.svg",
+      "altText": "NODEJS icon"
+    },
+    {
+      "id": 10,
+      "name": "MONGODB",
+      "imageSrc": "/images/skills/mongodb.svg",
+      "altText": "MONGODB icon"
+    },
+    {
+      "id": 11,
+      "name": "POSTGRES",
+      "imageSrc": "/images/skills/postgresql.svg",
+      "altText": "SASS icon"
+    },
+    {
+      "id": 12,
+      "name": "SEQUELIZE",
+      "imageSrc": "/images/skills/sequelize.svg",
+      "altText": "SEQUELIZE icon"
+    }
+  ],
+  "softSkills": [
+    {
+      "id": 1,
+      "name": "Adaptable",
+      "imageSrc": "/images/skills/adaptable.svg",
+      "altText": "Adaptable icon"
+    },
+    {
+      "id": 2,
+      "name": "Colaborativo",
+      "imageSrc": "/images/skills/collaboration.svg",
+      "altText": "Colaborativo icon"
+    },
+    {
+      "id": 3,
+      "name": "Creativo",
+      "imageSrc": "/images/skills/creativity.svg",
+      "altText": "Adaptable icon"
+    },
+    {
+      "id": 4,
+      "name": "Orientado a resultados",
+      "imageSrc": "/images/skills/orientation_to_results.svg",
+      "altText": "Colaborativo icon"
+    },
+    {
+      "id": 5,
+      "name": "Resolutivo",
+      "imageSrc": "/images/skills/bug-fixing.svg",
+      "altText": "Adaptable icon"
+    },
+    {
+      "id": 6,
+      "name": "Trabajo en equipo",
+      "imageSrc": "/images/skills/team-work.svg",
+      "altText": "Colaborativo icon"
+    },
+    {
+      "id": 7,
+      "name": "Comunicador efectivo",
+      "imageSrc": "/images/skills/effective-communication.svg",
+      "altText": "Adaptable icon"
+    },
+    {
+      "id": 8,
+      "name": "Enfocado",
+      "imageSrc": "/images/skills/focusing.svg",
+      "altText": "Colaborativo icon"
+    },
+    {
+      "id": 9,
+      "name": "Analitico",
+      "imageSrc": "/images/skills/data-analyst.svg",
+      "altText": "Colaborativo icon"
+    }
+  ]
+}
