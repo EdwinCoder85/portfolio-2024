@@ -45,7 +45,7 @@ export const Skills = () => {
           {technicalSkills.map((skill, index) => (
             <figure
               key={index}
-              className="bg-gray-200 dark:bg-gray-800 rounded-lg w-24 lg:w-32 xl:w-36 lg:h-36 p-2 lg:p-4 hover:dark:bg-yellow-200 hover:bg-blue-300 mx-auto"
+              className="bg-gray-200 dark:bg-gray-800 rounded-lg w-24 lg:w-32 xl:w-36 lg:h-36 p-2 lg:p-4 hover:dark:bg-gray-500 hover:bg-gray-400/60 mx-auto"
               draggable
               onDragStart={(event) => handleTechDragStart(index)(event)}
               onDragOver={(event) => handleTechDragOver(event)}
@@ -68,7 +68,7 @@ export const Skills = () => {
           {softSkills.map((skill, index) => (
             <figure
               key={index}
-              className="bg-gray-200 dark:bg-gray-800 rounded-lg w-24 lg:w-32 xl:w-36 lg:h-36 p-2 lg:p-4 hover:dark:bg-yellow-200 hover:bg-blue-300 mx-auto hover:text-gray-100 hover:dark:text-gray-600 "
+              className="bg-gray-200 dark:bg-gray-800 rounded-lg w-24 lg:w-32 xl:w-36 lg:h-36 p-2 lg:p-4 hover:dark:bg-gray-500 hover:bg-gray-400/60 mx-auto"
               draggable
               onDragStart={(event) => handleSoftDragStart(index)(event)}
               onDragOver={(event) => handleSoftDragOver(event)}

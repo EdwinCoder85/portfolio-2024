@@ -1,5 +1,68 @@
 [
   {
+    "name": "PORTFOLIO GIRL DEV",
+    "img": "/images/projects/project13.jpg",
+    "description": "Un portafolio frontend dinámico y moderno desarrollado con Next.js y React, con estilos optimizados mediante Tailwind CSS. Integra funcionalidades interactivas usando Framer Motion para una experiencia de usuario fluida y atractiva.",
+    "technologies": [
+      {
+        "name": "React Hook Form",
+        "img": "/images/icons/nextjs.svg",
+        "color": "#000000"
+      },
+      {
+        "name": "React Slick",
+        "img": "/images/icons/react.svg",
+        "color": "#00d8ff"
+      },
+      {
+        "name": "React Redux",
+        "img": "/images/icons/tailwind.svg",
+        "color": "#06b6d4"
+      }
+    ],
+    "networks": [
+      {
+        "name": "Ver código",
+        "img": "/images/icons/github.svg",
+        "link": "https://github.com/EdwinCoder85/portfolio-website-girl"
+      },
+      {
+        "name": "Ver aplicación",
+        "img": "/images/icons/netlify.svg",
+        "link": "https://portfolio-website-girl.vercel.app/"
+      }
+    ]
+  },
+  {
+    "name": "DASHBOARD GAMER",
+    "img": "/images/projects/project12.jpg",
+    "description": "Es una aplicación web desarrollada con front-end que permite visualizar video games realizado en react vite y maqueteado con tailwind, totalmente responsive.",
+    "technologies": [
+      {
+        "name": "React Hook Form",
+        "img": "/images/icons/react.svg",
+        "color": "#00d8ff"
+      },
+      {
+        "name": "React Slick",
+        "img": "/images/icons/tailwind.svg",
+        "color": "#06b6d4"
+      }
+    ],
+    "networks": [
+      {
+        "name": "Ver código",
+        "img": "/images/icons/github.svg",
+        "link": "https://github.com/EdwinCoder85/dashboard-gamer"
+      },
+      {
+        "name": "Ver aplicación",
+        "img": "/images/icons/netlify.svg",
+        "link": "https://dashboardgamer-edwinamaranto.netlify.app/"
+      }
+    ]
+  },
+  {
     "name": "CONEXION HUELLITAS",
     "img": "/images/projects/project11.jpg",
     "description": "Aplicación Web App para la adopción de mascotas 🐶 🐱, que permite conectar de manera efectiva a posibles adoptantes con refugios de animales, facilitando el proceso de adopción a través de una interfaz intuitiva y segura. Este proyecto se desarrolla en el marco de una simulación laboral por No Country.",
@@ -22,12 +85,12 @@
     ],
     "networks": [
       {
-        "name": "React Slick",
+        "name": "Ver código",
         "img": "/images/icons/github.svg",
         "link": "https://github.com/No-Country/c16-23-n-node-react"
       },
       {
-        "name": "Tailwind CSS",
+        "name": "Ver aplicación",
         "img": "/images/icons/netlify.svg",
         "link": "https://c16-23-n-node-react-eta.vercel.app/"
       }
@@ -56,12 +119,12 @@
     ],
     "networks": [
       {
-        "name": "React Slick",
+        "name": "Ver código",
         "img": "/images/icons/github.svg",
         "link": "https://github.com/EdwinCoder85/TodoListApp"
       },
       {
-        "name": "Tailwind CSS",
+        "name": "Ver aplicación",
         "img": "/images/icons/netlify.svg",
         "link": "https://todolistapp-edwinamaranto.vercel.app/"
       }
@@ -90,12 +153,12 @@
     ],
     "networks": [
       {
-        "name": "React Slick",
+        "name": "Ver código",
         "img": "/images/icons/github.svg",
         "link": "https://github.com/EdwinCoder85/CrudMoviesApp"
       },
       {
-        "name": "Tailwind CSS",
+        "name": "Ver aplicación",
         "img": "/images/icons/netlify.svg",
         "link": "https://crudmoviesapp-edwinamaranto.netlify.app/"
       }
@@ -124,12 +187,12 @@
     ],
     "networks": [
       {
-        "name": "React Slick",
+        "name": "Ver código",
         "img": "/images/icons/github.svg",
         "link": "https://github.com/EdwinCoder85/CountryApp"
       },
       {
-        "name": "Tailwind CSS",
+        "name": "Ver aplicación",
         "img": "/images/icons/netlify.svg",
         "link": "https://countryapp-edwinamaranto.netlify.app/"
       }
@@ -163,12 +226,12 @@
     ],
     "networks": [
       {
-        "name": "React Slick",
+        "name": "Ver código",
         "img": "/images/icons/github.svg",
         "link": "https://github.com/EdwinCoder85/EcommerceApp"
       },
       {
-        "name": "Tailwind CSS",
+        "name": "Ver aplicación",
         "img": "/images/icons/netlify.svg",
         "link": "https://ecommerceapp-edwinamaranto.netlify.app/"
       }
@@ -197,12 +260,12 @@
     ],
     "networks": [
       {
-        "name": "React Slick",
+        "name": "Ver código",
         "img": "/images/icons/github.svg",
         "link": "https://github.com/EdwinCoder85/PokedexApp"
       },
       {
-        "name": "Tailwind CSS",
+        "name": "Ver aplicación",
         "img": "/images/icons/netlify.svg",
         "link": "https://pokedexapp-edwinamaranto.netlify.app/"
       }
@@ -226,43 +289,14 @@
     ],
     "networks": [
       {
-        "name": "React Slick",
+        "name": "Ver código",
         "img": "/images/icons/github.svg",
         "link": "https://github.com/EdwinCoder85/UserCardAppv2.0"
       },
       {
-        "name": "Tailwind CSS",
+        "name": "Ver aplicación",
         "img": "/images/icons/netlify.svg",
         "link": "https://cruduserappv2-edwinamaranto.netlify.app/"
-      }
-    ]
-  },
-  {
-    "name": "DASHBOARD GAMER",
-    "img": "/images/projects/project12.jpeg",
-    "description": "Es una aplicación web desarrollada con front-end que permite visualizar video games realizado en react vite y maqueteado con tailwind, totalmente responsive.",
-    "technologies": [
-      {
-        "name": "React Hook Form",
-        "img": "/images/icons/react.svg",
-        "color": "#00d8ff"
-      },
-      {
-        "name": "React Slick",
-        "img": "/images/icons/tailwind.svg",
-        "color": "#06b6d4"
-      }
-    ],
-    "networks": [
-      {
-        "name": "React Slick",
-        "img": "/images/icons/github.svg",
-        "link": "https://github.com/EdwinCoder85/dashboard-gamer"
-      },
-      {
-        "name": "Tailwind CSS",
-        "img": "/images/icons/netlify.svg",
-        "link": "https://dashboardgamer-edwinamaranto.netlify.app/"
       }
     ]
   }
