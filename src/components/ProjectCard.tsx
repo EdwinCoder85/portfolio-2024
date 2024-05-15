@@ -75,7 +75,7 @@ export const ProjectCard = ({ project }: ProjectCardProps) => {
               <a
                 key={index}
                 className="flex items-center justify-center h-9 w-9 sm:h-10 sm:w-10 md:h-10 md:w-10 lg:w-12 lg:h-12 rounded-full"
-                style={{ backgroundColor: tech.color }}
+                // style={{ backgroundColor: tech.color }}
               >
                 <img
                   src={tech.img}

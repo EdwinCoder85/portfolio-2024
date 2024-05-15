@@ -12,7 +12,7 @@ import { Navbar } from './components/shared/Navbar';
 function App() {
 
   return (
-    <>
+    <main>
       <Navbar />
       <Home />
       <AboutMe />
@@ -22,7 +22,7 @@ function App() {
       <ContactMe />
       <Footer />
       <BackToTopBtn />
-    </>
+    </main>
   )
 }
 

@@ -1,5 +1,6 @@
 import useDragDrop from "../hooks/useDragDrop";
 import skillsData from "../data/skills.json";
+import { motion } from "framer-motion";
 
 interface Skill {
   id: number;
@@ -37,7 +38,17 @@ export const Skills = () => {
       className="flex flex-col h-screen justify-end items-center md:justify-center md:items-center lg:justify-center lg:items-start lg:h-auto select-none w-[90%] max-w-screen-2xl mx-auto md:flex-row lg:py-24 md:gap-4 lg:gap-4"
       id="skills"
     >
-      <article className="flex flex-col gap-1 sm:gap-2 md:gap-4 lg:gap-6 lg:w-1/2 px-6 py-2 md:p-4 lg:p-6 mx-auto md:h-117 lg:h-auto">
+      <motion.article
+        initial="hidden"
+        whileInView="visible"
+        viewport={{ once: true, amount: 0.5 }}
+        transition={{ delay: 0.2, duration: 0.5 }}
+        variants={{
+          hidden: { opacity: 0, x: -50 },
+          visible: { opacity: 1, x: 0 },
+        }}
+        className="flex flex-col gap-1 sm:gap-2 md:gap-4 lg:gap-6 lg:w-1/2 px-6 py-2 md:p-4 lg:p-6 mx-auto md:h-117 lg:h-auto"
+      >
         <h3 className="text-base sm:text-lg md:text-xl lg:text-2xl font-medium lg:font-bold dark:text-yellow-500 text-primaryLight">
           Habilidades Técnicas
         </h3>
@@ -59,8 +70,16 @@ export const Skills = () => {
             </figure>
           ))}
         </div>
-      </article>
-      <article className="flex flex-col gap-1 sm:gap-2 md:gap-4 lg:gap-6 lg:w-1/2 px-6 py-2 md:p-4 lg:p-6 mx-auto md:h-117 lg:h-auto">
+      </motion.article>
+      <motion.article
+        initial="hidden"
+        whileInView="visible"
+        viewport={{ once: true, amount: 0.5 }}
+        transition={{ delay: 0.2, duration: 0.5 }}
+        variants={{
+          hidden: { opacity: 0, x: 50 },
+          visible: { opacity: 1, x: 0 },
+        }} className="flex flex-col gap-1 sm:gap-2 md:gap-4 lg:gap-6 lg:w-1/2 px-6 py-2 md:p-4 lg:p-6 mx-auto md:h-117 lg:h-auto">
         <h3 className="text-base sm:text-lg md:text-xl lg:text-2xl font-medium lg:font-bold dark:text-yellow-500 text-primaryLight">
           Habilidades Blandas
         </h3>
@@ -87,7 +106,7 @@ export const Skills = () => {
             </figure>
           ))}
         </div>
-      </article>
+      </motion.article>
     </section>
   );
 };
